@@ -1,6 +1,7 @@
 {
   "name": "google-maps-solar-api",
   "version": "1.0.0",
+  "homepage": "https://supertimmyh.github.io/solar-data-by-ai",
   "description": "A Google Maps JS integration of the Solar API and Green Button.",
   "main": "dist/index.js",
   "scripts": {
