@@ -1,7 +1,7 @@
 {
   "name": "google-maps-solar-api",
   "version": "1.0.0",
-  "description": "A Google Maps JS integration of the Solar API.",
+  "description": "A Google Maps JS integration of the Solar API and Green Button.",
   "main": "dist/index.js",
   "scripts": {
     "build": "npx webpack",
